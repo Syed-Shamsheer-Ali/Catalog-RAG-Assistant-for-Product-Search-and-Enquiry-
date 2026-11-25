@@ -11,3 +11,15 @@ models/**/*.onnx
 !models/**/.gitkeep
 data/faiss_index/*.faiss
 !data/faiss_index/.gitkeep
+
+@"
+.venv/
+__pycache__/
+*.pyc
+.env
+models/
+data/vector_db/
+logs/
+*.sqlite
+*.db
+"@ | Out-File -Encoding utf8 .gitignore
