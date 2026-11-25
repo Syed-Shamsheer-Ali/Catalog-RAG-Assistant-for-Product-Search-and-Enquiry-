@@ -1,0 +1,54 @@
+{
+  "invoice_id": "INV-20261010000601",
+  "issued_at": "2026-10-10 00:06:01",
+  "customer_name": "Customer",
+  "product_kind": "Multiple products",
+  "product_category": "Multiple line items",
+  "line_items": [
+    {
+      "line_number": 1,
+      "product_name": "PIPE",
+      "product_kind": "PIPE",
+      "product_category": "CPVC pipes",
+      "size_inch": "3/4",
+      "specifications": "CPVC",
+      "part_number": "70000248",
+      "quantity": 10.0,
+      "unit": "m",
+      "unit_price": 166.0,
+      "line_total": 1660.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 2,
+      "product_name": "FITTING",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "3/4",
+      "specifications": "",
+      "part_number": "70000561",
+      "quantity": 20.0,
+      "unit": "piece",
+      "unit_price": 43.0,
+      "line_total": 860.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 3,
+      "product_name": "FITTING",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "3/4",
+      "specifications": "",
+      "part_number": "70000558",
+      "quantity": 10.0,
+      "unit": "piece",
+      "unit_price": 75.0,
+      "line_total": 750.0,
+      "price_source": "local_catalog"
+    }
+  ],
+  "total_amount": 3270.0,
+  "notes": "",
+  "status": "submitted"
+}

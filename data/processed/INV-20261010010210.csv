@@ -1,0 +1,4 @@
+invoice_id,customer_name,line_number,product_name,product_kind,product_category,size_inch,specifications,part_number,quantity,unit,unit_price,price_source,line_total,grand_total
+INV-20261010010210,shamsheer,1,FITTING,FITTING,CPVC fittings and accessories,1/2,CPVC,70000560,10.0,piece,30.0,local_catalog,300.0,1340.0
+INV-20261010010210,shamsheer,2,PIPE,PIPE,CPVC pipes,1/2,"CPVC, SDR 11",70000247,2.0,length,360.0,local_catalog,720.0,1340.0
+INV-20261010010210,shamsheer,3,FITTING,FITTING,CPVC fittings and accessories,1/2,,70000524,10.0,piece,32.0,local_catalog,320.0,1340.0

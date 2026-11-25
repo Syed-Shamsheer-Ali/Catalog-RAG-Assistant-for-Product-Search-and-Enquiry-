@@ -1,0 +1,20 @@
+{
+  "invoice_id": "INV-20261010010707",
+  "issued_at": "2026-10-10 01:07:07",
+  "customer_name": "Customer",
+  "product_kind": "PIPE",
+  "product_category": "CPVC pipes",
+  "product_code": "ashirvad-70000247",
+  "part_number": "70000247",
+  "size_inch": "1/2",
+  "material": "CPVC",
+  "system": "SDR 11",
+  "quantity": 5,
+  "std_pkg": 50,
+  "box_quantity": 50,
+  "boxes_required": 1,
+  "unit_price": 360.0,
+  "total_amount": 1800.0,
+  "notes": "Need 5 CPVC pipe 1/2 inch, SDR 11, 3 m length",
+  "status": "submitted"
+}

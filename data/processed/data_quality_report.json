@@ -1,0 +1,17 @@
+{
+  "total_records": 525,
+  "valid_records": 365,
+  "records_needing_review": 160,
+  "missing_part_numbers": 0,
+  "missing_prices": 159,
+  "missing_sizes": 54,
+  "duplicate_part_numbers": 0,
+  "duplicate_product_size": 0,
+  "price_anomalies": 0,
+  "compound_size_anomalies": 102,
+  "source_page_mapping_errors": 0,
+  "price_types_detected": [
+    "OTHER",
+    "PER_METER"
+  ]
+}

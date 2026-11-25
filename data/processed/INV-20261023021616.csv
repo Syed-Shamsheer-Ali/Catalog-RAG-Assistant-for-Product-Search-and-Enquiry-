@@ -1,0 +1,2 @@
+invoice_id,customer_name,line_number,product_name,product_kind,product_category,size_inch,specifications,part_number,quantity,unit,unit_price,price_source,line_total,grand_total
+INV-20261023021616,Shamsheer,1,Ball Valve - Handle,VALVE,CPVC fittings and accessories,1.5,,50000989,10.0,piece,25.0,local_catalog,250.0,250.0

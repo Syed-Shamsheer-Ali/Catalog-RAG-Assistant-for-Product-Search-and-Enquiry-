@@ -1,0 +1,54 @@
+{
+  "invoice_id": "INV-20261010010210",
+  "issued_at": "2026-10-10 01:02:10",
+  "customer_name": "shamsheer",
+  "product_kind": "Multiple products",
+  "product_category": "Multiple line items",
+  "line_items": [
+    {
+      "line_number": 1,
+      "product_name": "FITTING",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "1/2",
+      "specifications": "CPVC",
+      "part_number": "70000560",
+      "quantity": 10.0,
+      "unit": "piece",
+      "unit_price": 30.0,
+      "line_total": 300.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 2,
+      "product_name": "PIPE",
+      "product_kind": "PIPE",
+      "product_category": "CPVC pipes",
+      "size_inch": "1/2",
+      "specifications": "CPVC, SDR 11",
+      "part_number": "70000247",
+      "quantity": 2.0,
+      "unit": "length",
+      "unit_price": 360.0,
+      "line_total": 720.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 3,
+      "product_name": "FITTING",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "1/2",
+      "specifications": "",
+      "part_number": "70000524",
+      "quantity": 10.0,
+      "unit": "piece",
+      "unit_price": 32.0,
+      "line_total": 320.0,
+      "price_source": "local_catalog"
+    }
+  ],
+  "total_amount": 1340.0,
+  "notes": "",
+  "status": "submitted"
+}

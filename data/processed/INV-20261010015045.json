@@ -1,0 +1,40 @@
+{
+  "invoice_id": "INV-20261010015045",
+  "issued_at": "2026-10-10 01:50:45",
+  "customer_name": "Customer",
+  "product_kind": "Multiple products",
+  "product_category": "Multiple line items",
+  "line_items": [
+    {
+      "line_number": 1,
+      "product_name": "Elbow 90°",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "1/2",
+      "specifications": "",
+      "part_number": "70000537",
+      "quantity": 10.0,
+      "unit": "piece",
+      "unit_price": 26.0,
+      "line_total": 260.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 2,
+      "product_name": "Pipe SDR 11 (Class 1) 3 & 5 mtr. length",
+      "product_kind": "PIPE",
+      "product_category": "CPVC pipes",
+      "size_inch": "1/2",
+      "specifications": "CPVC, SDR 11",
+      "part_number": "70000247",
+      "quantity": 2.0,
+      "unit": "length",
+      "unit_price": 360.0,
+      "line_total": 720.0,
+      "price_source": "local_catalog"
+    }
+  ],
+  "total_amount": 980.0,
+  "notes": "",
+  "status": "submitted"
+}

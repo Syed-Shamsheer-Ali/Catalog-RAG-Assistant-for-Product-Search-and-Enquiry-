@@ -1,0 +1,82 @@
+{
+  "invoice_id": "INV-20261015174928",
+  "issued_at": "2026-10-15 17:49:28",
+  "customer_name": "shamsheer",
+  "product_kind": "Multiple products",
+  "product_category": "Multiple line items",
+  "line_items": [
+    {
+      "line_number": 1,
+      "product_name": "Male Adapter Plastic Threaded - MAPT",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "1 1/2",
+      "specifications": "",
+      "part_number": "70000520",
+      "quantity": 1500.0,
+      "unit": "piece",
+      "unit_price": 133.0,
+      "line_total": 199500.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 2,
+      "product_name": "End Cap",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "3/4",
+      "specifications": "",
+      "part_number": "70000428",
+      "quantity": 1400.0,
+      "unit": "piece",
+      "unit_price": 21.0,
+      "line_total": 29400.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 3,
+      "product_name": "Male Adapter Plastic Threaded - MAPT",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "3/4",
+      "specifications": "",
+      "part_number": "70000517",
+      "quantity": 4000.0,
+      "unit": "piece",
+      "unit_price": 35.0,
+      "line_total": 140000.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 4,
+      "product_name": "Tank Nipple",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "1/2",
+      "specifications": "",
+      "part_number": "70000367",
+      "quantity": 975.0,
+      "unit": "piece",
+      "unit_price": 91.0,
+      "line_total": 88725.0,
+      "price_source": "local_catalog"
+    },
+    {
+      "line_number": 5,
+      "product_name": "End Cap",
+      "product_kind": "FITTING",
+      "product_category": "CPVC fittings and accessories",
+      "size_inch": "2",
+      "specifications": "",
+      "part_number": "70000432",
+      "quantity": 600.0,
+      "unit": "piece",
+      "unit_price": 220.0,
+      "line_total": 132000.0,
+      "price_source": "local_catalog"
+    }
+  ],
+  "total_amount": 589625.0,
+  "notes": "",
+  "status": "submitted"
+}

@@ -1,0 +1,6 @@
+invoice_id,customer_name,line_number,product_name,product_kind,product_category,size_inch,specifications,part_number,quantity,unit,unit_price,price_source,line_total,grand_total
+INV-20261015174928,shamsheer,1,Male Adapter Plastic Threaded - MAPT,FITTING,CPVC fittings and accessories,1 1/2,,70000520,1500.0,piece,133.0,local_catalog,199500.0,589625.0
+INV-20261015174928,shamsheer,2,End Cap,FITTING,CPVC fittings and accessories,3/4,,70000428,1400.0,piece,21.0,local_catalog,29400.0,589625.0
+INV-20261015174928,shamsheer,3,Male Adapter Plastic Threaded - MAPT,FITTING,CPVC fittings and accessories,3/4,,70000517,4000.0,piece,35.0,local_catalog,140000.0,589625.0
+INV-20261015174928,shamsheer,4,Tank Nipple,FITTING,CPVC fittings and accessories,1/2,,70000367,975.0,piece,91.0,local_catalog,88725.0,589625.0
+INV-20261015174928,shamsheer,5,End Cap,FITTING,CPVC fittings and accessories,2,,70000432,600.0,piece,220.0,local_catalog,132000.0,589625.0
